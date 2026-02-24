@@ -34,7 +34,7 @@
       <img src="https://img.shields.io/badge/Power_BI-(Upcoming)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
     </td>
     <td width="35%" align="center" valign="center">
-      <img src="https://i.imgur.com/8Qk7Z8B.png" width="90%" alt="Jacob's Avatar">
+      <img src="profile.jpg" width="90%" alt="Jacob's Avatar">
       <br>
     </td>
   </tr>
