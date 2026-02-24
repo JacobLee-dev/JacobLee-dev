@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**JacobLee-dev/JacobLee-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jacob+Lee;Data+Analyst+in+Training;Growing+from+Zero+to+Data+Expert!" alt="Typing SVG" />
 </div>
@@ -12,10 +7,10 @@
 ## 🧑‍💻 About Me
 Hello! I am an aspiring Data Analyst currently participating in an intensive Data Analysis Bootcamp. I love diving into data, extracting insights, and learning new tools.
 
-- 🔭 **Currently Learning:** - **Python:** Data Preprocessing, Visualization (Pandas, Matplotlib, seaborn)
+- 🔭 **Currently Learning:** - **Python:** Data Preprocessing, Visualization (Pandas, Matplotlib)
   - **SQL:** Advanced queries (Subqueries, Multiple Joins, Window Functions)
   - **Data Science:** Statistics & Machine Learning Basics
-- 🚀 **Coming Soon:** Just Starting **Tableau & Power BI** 
+- 🚀 **Coming Soon:** Starting **Tableau** in 3 weeks!
 - 📝 **My TIL & Dev Log:** Check out my [Personal Blog](https://jacoblee-dev.github.io)
 
 <br/>
